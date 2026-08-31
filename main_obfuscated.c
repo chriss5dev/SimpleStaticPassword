@@ -34,12 +34,6 @@ bool ValidatePasswordChar(int index, char c)
 
 int main()
 {
-	for(int i = 0; i < 64; i++)
-	{
-		printf("%c", GetPasswordChar(i));
-		input[i] = '\0';
-	}
-	
 	printf("Enter the password: ");
 	scanf("%s", input);
 	
