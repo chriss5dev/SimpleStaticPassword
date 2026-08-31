@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#define password "k(0mFVK,8p<r2h'Fv$24o-S9kzS{|G2B4:]vzV>£BuCU9rh'@o"
+#define password "vw6rC3HPCGJvMPPZ7VbR8TsvwU58pcjV"
 
 
 char input[64];
