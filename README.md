@@ -21,7 +21,7 @@
 - For an external solution, try automating the changes made in [2] directly into the program.
 </details>
 
-### 4. Bypass obfuscated password (Medium)
+### 4. Bypass obfuscated password (Hard)
 - Use dynamic analysis to completely bypass the need for a password.
 - The instructions are a bit more complicated now.
 
